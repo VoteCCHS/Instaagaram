@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Instaagaram/static/css/main.ca67ef22.css",
+    "main.js": "/Instaagaram/static/js/main.ad075625.js",
+    "static/js/453.e33279f7.chunk.js": "/Instaagaram/static/js/453.e33279f7.chunk.js",
+    "index.html": "/Instaagaram/index.html",
+    "main.ca67ef22.css.map": "/Instaagaram/static/css/main.ca67ef22.css.map",
+    "main.ad075625.js.map": "/Instaagaram/static/js/main.ad075625.js.map",
+    "453.e33279f7.chunk.js.map": "/Instaagaram/static/js/453.e33279f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.ad075625.js"
+  ]
+}
